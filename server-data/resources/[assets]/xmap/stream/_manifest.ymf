@@ -1,19 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<CPackFileMetaData>
-  <MapDataGroups/>
-  <HDTxdBindingArray/>
-  <imapDependencies/>
-  <imapDependencies_2>
-    <Item>
-      <imapName>xmap</imapName>
-      <manifestFlags/>
-      <itypDepArray>
-        <Item>v_christmas_tree</Item>
-        <Item>xs_prop_int_arena_christmas</Item>
-      </itypDepArray>
-    </Item>
-  </imapDependencies_2>
-  <itypDependencies_2/>
-  <Interiors/>
-</CPackFileMetaData>
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:f40b3d1619da7c12e16fd2e648059864df889e1f9e384ec2e9ee14f5ce25c33f
+size 455
