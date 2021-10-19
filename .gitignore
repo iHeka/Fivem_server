@@ -1,1 +1,14 @@
-citizen/system_resources/
+*.yft
+*.ymap
+*.ytd
+*.ybn
+*.ydr
+*.ytyp
+*.ymf
+*.mp3
+*.mp4
+*.wav
+*.png
+*.jpg
+*.gif
+*.dll
